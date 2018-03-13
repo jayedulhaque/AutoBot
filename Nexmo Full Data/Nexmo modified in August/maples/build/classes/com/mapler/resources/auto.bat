@@ -1,1 +1,0 @@
-wscript "D:\comp\program.vbs"
